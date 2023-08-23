@@ -1,1 +1,2 @@
-# E-voting
+# E-voting system
+The "E-Voting System" project aims to design and develop a secure, efficient, and user-friendly electronic voting platform that allows eligible voters to cast their votes electronically in various elections, ensuring transparency, integrity, and ease of use. This project seeks to modernize the traditional voting process, making it more accessible and convenient for voters while maintaining the security and accuracy of the election results.
